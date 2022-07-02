@@ -15,14 +15,13 @@ Clone the repo to get a working project
 Running the tests from command line mode
 -------------------
 cd to project path  
-Run the command from cmd with parameters
-`TBD`
+To Run Cypress e2e tests headlessly without copying files in Docker Container
+`sh cy-run.sh`
 
 
 
 ###Login Feature scenarios are as follows:
 ```
-
 Feature: Login
 
 Scenario Outline: User can Log In
