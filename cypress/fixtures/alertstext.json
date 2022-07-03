@@ -1,3 +1,4 @@
 {
-  "incorrectUserNameOrPassword": "You have entered an incorrect username or password."
+  "incorrectUserNameOrPassword": "You have entered an incorrect username or password.",
+  "youHaveSuccessfullyLoggedOut": "You have successfully logged out."
 }
